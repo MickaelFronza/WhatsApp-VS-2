@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Sacmais
+            UMADCAM
           </Typography>
           {user.id && <NotificationsPopOver />}
 
